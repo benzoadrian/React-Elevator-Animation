@@ -1,0 +1,13 @@
+.FloorContainer {
+  margin-left: 100px;
+  margin-top: 13px;
+  height: 100px;
+  width: 200px;
+  border: 1px solid lightseagreen;
+}
+
+span {
+  color: white;
+}
+
+
